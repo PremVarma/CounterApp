@@ -1,0 +1,18 @@
+.button{
+    background-color: #06a198;
+    padding: 10px 40px;
+    outline: none;
+    border: none;
+    margin: 20px;
+    font-size: 2rem;
+    color: white;
+    border-radius: 50px;
+}
+
+.error{
+    background-color: red;
+}
+
+.button:hover{
+    opacity: 0.7;
+}
